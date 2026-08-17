@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { articles } from "../site-data";
+import { articles } from "../blog-content";
 
 export const metadata: Metadata = { title: "博客", description: "关于 Agent、RAG、模型微调与工程实践的思考。" };
 

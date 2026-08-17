@@ -1,4 +1,4 @@
-import {articles} from "./site-data";
+import {articles} from "./blog-content";
 
 const news = [
   ["2026.08", "开始在个人博客记录 RAG、Agent 与模型微调中的具体问题。"],

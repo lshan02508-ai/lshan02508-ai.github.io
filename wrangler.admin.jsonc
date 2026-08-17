@@ -1,0 +1,14 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "lsa-blog-admin",
+  "main": "admin-worker/index.ts",
+  "compatibility_date": "2026-08-15",
+  "workers_dev": true,
+  "vars": {
+    "GITHUB_OWNER": "lshan02508-ai",
+    "GITHUB_REPO": "lshan02508-ai.github.io",
+    "GITHUB_BRANCH": "main",
+    "ALLOWED_GITHUB_LOGIN": "lshan02508-ai",
+    "ALLOWED_ORIGINS": "https://lshan02508-ai.github.io,http://127.0.0.1:4173,http://localhost:4173"
+  }
+}
