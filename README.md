@@ -2,7 +2,6 @@
 
 一个基于 React、Vite、GitHub Pages 和 Cloudflare Workers 的个人主页与轻量博客发布系统。
 
-项目不仅展示教育经历、荣誉奖项、实习、项目和科研成果，还提供浏览器写作后台：可以编辑 Markdown、保存本地草稿，并通过 GitHub OAuth 将文章直接提交到仓库，自动触发 GitHub Pages 发布。
 
 [![React](https://img.shields.io/badge/React-19-149eca?logo=react&logoColor=white)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-8-646cff?logo=vite&logoColor=white)](https://vite.dev/)
@@ -13,22 +12,11 @@
 
 - 个人主页：<https://lshan02508-ai.github.io/>
 - 博客列表：<https://lshan02508-ai.github.io/#/blog>
-- 写作后台：<https://lshan02508-ai.github.io/#/admin>
 
 > 写作后台的本地草稿无需服务端即可使用。直接发布到 GitHub 需要部署 Worker 并配置 GitHub OAuth。
 
 ## 功能特性
 
-### 个人主页
-
-- 个人介绍和联系方式
-- 教育经历与实习时间线
-- 荣誉、竞赛和奖学金
-- 项目案例与技术指标
-- 科研论文与实验结果
-- 技术能力矩阵
-- 博客文章列表
-- 桌面端与移动端响应式布局
 
 ### 博客系统
 
